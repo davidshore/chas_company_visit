@@ -1,7 +1,7 @@
 # Gruppuppgift: Företagsbesök
 ### Frontend och Mobil utveckling i Techbranschen
 
-Syftet med denna uppgift är att ni ska förstå vad det innebär att jobba med Frontend och Mobil utveckling i praktiken. Detta inkluderar insikter kring relevanta yrkesroller, ansvarsområden samt förekommande arbetsuppgifter och projekttyper. Dessa insikter förväntas ni skaffa er genom ett företagsbesök.
+Syftet med denna uppgift är att ni ska förstå vad det innebär att jobba med Frontend och Mobil utveckling i praktiken. Detta inkluderar insikter kring relevanta yrkesroller, ansvarsområden samt förekommande arbetsuppgifter och projekttyper. Dessa insikter ska skaffa er genom ett företagsbesök.
 
 Varje grupp kommer själva ansvara för att hitta och boka in ett besök hos ett företag där ni får möjlighet att ställa frågor till anställda som arbetar med Frontend/Mobil-utveckling.   
 Utöver exempelfrågorna ska ni i er grupp baserat på det ni lärde er i introduktionsföreläsningen och er kollektiva nyfikenhet formulera minst 5 extra frågor som ska ställas under företagsbesöket.
