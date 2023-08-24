@@ -29,7 +29,8 @@ Tips: “Varför?” är alltid en bra följdfråga!
 ## Presentation
 
 På torsdag 14 september mellan 9.00 - 12.00 ska ni presentera ert arbete för i ‘Klassrum 2’. Detta innebär följande:
-- Berätta om det företag ni besökte och vilka ni pratade med 􏰀 Gå igenom era frågor samt de svar ni fick
+- Berätta om det företag ni besökte och vilka ni pratade med
+- Gå igenom era frågor samt de svar ni fick
 - Reflektera över vad ni har lärt er av ert besök överlag
   
 Samtliga gruppmedlemmar förväntas självklart att delta i presentationen. Ni bör även såklart vara lyhörda under andras presentationer och uppmuntras till att ställa frågor efter varje presentation om det är något ni är nyfikna på!
