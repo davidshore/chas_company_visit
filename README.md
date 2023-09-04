@@ -3,8 +3,7 @@
 
 Syftet med denna uppgift är att ni ska förstå vad det innebär att jobba med Frontend och Mobil utveckling i praktiken. Detta inkluderar insikter kring relevanta yrkesroller, ansvarsområden samt förekommande arbetsuppgifter och projekttyper. Dessa insikter ska skaffa er genom ett företagsbesök.
 
-Varje grupp kommer själva ansvara för att hitta och boka in ett besök hos ett företag där ni får möjlighet att ställa frågor till anställda som arbetar med Frontend/Mobil-utveckling.   
-Utöver exempelfrågorna ska ni i er grupp baserat på det ni lärde er i introduktionsföreläsningen och er kollektiva nyfikenhet formulera minst 5 extra frågor som ska ställas under företagsbesöket.
+Varje grupp kommer själva ansvara för att hitta och boka in ett besök hos ett företag där ni får möjlighet att ställa frågor till anställda som arbetar med Frontend/Mobil-utveckling. Utöver exempelfrågorna ska ni i er grupp baserat på det ni lärde er i introduktionsföreläsningen och er kollektiva nyfikenhet formulera minst 5 extra frågor som ska ställas under företagsbesöket.
 
 
 Ni ska även skriva en kort individuell text där ni reflekterar över grupparbetet och din roll.
@@ -28,7 +27,7 @@ Tips: “Varför?” är alltid en bra följdfråga!
 
 ## Presentation
 
-På torsdag 14 september mellan 9.00 - 12.00 ska ni presentera ert arbete för i ‘Klassrum 2’. Detta innebär följande:
+På torsdag 14 september mellan 13.00 - 16.00 ska ni presentera ert arbete. Detta innebär följande:
 - Berätta om det företag ni besökte och vilka ni pratade med
 - Gå igenom era frågor samt de svar ni fick
 - Reflektera över vad ni har lärt er av ert besök överlag
