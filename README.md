@@ -27,7 +27,7 @@ Tips: “Varför?” är alltid en bra följdfråga!
 
 ## Presentation
 
-På torsdag 14 september mellan (9.00 - 12.00 för UXF) och (13.00 - 16.00 för FMW) ska ni presentera ert arbete. Detta innebär följande:
+På torsdag 14 september mellan 13.00 - 16.00 för FMW ska ni presentera ert arbete. Detta innebär följande:
 - Berätta om det företag ni besökte och vilka ni pratade med
 - Gå igenom era frågor samt de svar ni fick
 - Reflektera över vad ni har lärt er av ert besök överlag
