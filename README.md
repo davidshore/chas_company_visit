@@ -6,10 +6,6 @@ Syftet med denna uppgift är att ni ska förstå vad det innebär att jobba med 
 Varje grupp kommer själva ansvara för att hitta och boka in ett besök hos ett företag där ni får möjlighet att ställa frågor till anställda som arbetar med Frontend/Mobil-utveckling. Utöver exempelfrågorna ska ni i er grupp baserat på det ni lärde er i introduktionsföreläsningen och er kollektiva nyfikenhet formulera minst 5 extra frågor som ska ställas under företagsbesöket.
 
 
-Ni ska även skriva en kort individuell text där ni reflekterar över grupparbetet och din roll.
-För att inte alla företag/personer ska bli nedringda av er studenter så måste ni [dokumentera era kontakter här](https://docs.google.com/spreadsheets/d/1Tu9n4S6L4Osjxg7ekTyT117vEpPiLv9L8Abmp3BEe4g/edit?pli=1#gid=0).
-
-
 ## Exempelfrågor
 - Vilka yrkesroller anställer ni som jobbar med Frontend/Mobil-utvecking?
 - Vad är deras ansvarsområden?
